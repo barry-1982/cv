@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Contact Me</title>
+</head>
+
+<body>
+  <h3>Adres</h3>
+
+    <p>Street: wildbaan 54</p>
+    <p>Sety: Ette-Leur</p>
+    <p>Phone Nmuber: 0031636349190</p>
+    <hr>
+    <form class="" action="mailto:barham-youisf@outlook.com" method="post" enctype="text/plain">
+      <label>Your Name</label>
+      <input type="text" name="" value=""><br>
+      <label>Your Email</label>
+      <input type="email" name="" value=""><br>
+      <label>Your Messag</label><br>
+      <textarea name="name" rows="10" cols="30"></textarea><br>
+      <input type="submit" name=""><br>
+
+    </form>
+
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>My Hobbies</title>
+</head>
+
+<body>
+  <h3>Hobbies</h3>
+  <ol>
+    <li><strong><a href="https://www.skysports.com/football">Footbal</a><strong></li>
+    <li>Tince</li>
+    <li>Watch Movies</li>
+  
+
+
+</body>
+
+</html>
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Barham Personal SIte</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <tr>
+      <td><img src="images/barham.png" alt="barham profile picture"></td>
+      <td>
+        <h1>Barham Youisf</h1>
+
+        <p><em><strong>IT</strong><a href="https://mcp.microsoft.com/Anonymous/Transcript/Share">profisnal</a><strong>.</em></p>
+
+        <p>Im a student of live, and im loking for a great chalnig in the live to make it a beter place for ohoer one.</p>
+      </td>
+    </tr>
+  </table>
+
+
+
+  <hr size"3 noshado">
+  <h3>Books and Teching</h3>
+  <ul>
+    <li>Book to self development</li>
+    <li>Book to motivation</li>
+    <li>Book to make you crative</li>
+  </ul>
+  <hr>
+  <h3>Work EXperesinc</h3>
+  <table>
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+      <thead <tbody>
+
+
+        <tr>
+          <td>2010-2013</td>
+          <td>Microsoft_Certified_Professional</td>
+
+        </tr>
+        <tr>
+          <td>2010-2019</td>
+          <td>Microsoft_Certified_Solutions_Associate</td>
+
+        </tr>
+
+
+        <table cellspacing="13">
+          <tbody>
+            <hr>
+            <h3>Skills</h3>
+
+
+            <tr>
+              <td>Microsoft_Certified_Professional_Certificate</td>
+              <td>⭐⭐⭐⭐</td>
+              <td>Microsoft_Certified_Technology_Certificate</td>
+              <td>⭐⭐⭐⭐</td>
+            </tr>
+
+          </tbody>
+
+
+
+
+
+
+
+          <table cellspacing="13">
+            <tbody>
+              <tr>
+                <td>Microsoft_Certified_Solutions_Associate</td>
+                <td>⭐⭐⭐⭐</td>
+                <td>Web Developemnt</td>
+                <td>⭐⭐⭐⭐⭐</td>
+
+              </tr>
+            </tbody>
+          </table>
+      </thead>
+  </table>
+
+
+  </header>
+
+  </head>
+  <table cellspacing="20">
+    <tr>
+
+
+
+        <td><ul><a href="Contant Me.html">Contact Me </a>
+        </ul></td>
+
+          <td><a href="Contant Me.html">Contact Me </a>
+        </ul></td>
+
+    </tr>
+  </table>
+
+
+
+</body>
+
+</html>
